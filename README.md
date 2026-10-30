@@ -28,6 +28,8 @@ How it Works:
 
 Accuracy:
 Tested on 50 sample resumes (Data Analyst roles). Got ~89% accuracy compared to manual shortlisting by our HOD. 
+
+
 How to Run on Your Laptop:
 bash
 pip install -r requirements.txt
